@@ -2,7 +2,7 @@
 
 **Nama**        : Nindya Alif Romland  
 **NIM**         : H1D024031  
-**Shift**       : Awal D / Akhir E 
+**Shift**       : Awal D / Akhir E
 **Praktikum**   : Pemrograman Mobile
 
 ---
