@@ -19,7 +19,7 @@
   - Pembuatan Kelas (*Class*) dan Objek (*Object*), penggunaan statement `import`, penanganan eksepsi (`try-catch`), serta pengelolaan operasi asinkronus menggunakan `async` dan `await`.
 
 **Kesimpulan Praktikum:**  
-Pertemuan pertama memberikan pemahaman mendalam mengenai sintaks dan fitur inti dari bahasa pemrograman Dart yang menjadi dasar esensial sebelum membangun antarmuka aplikasi dengan Flutter.
+Pertemuan pertama memberikan pemahaman mengenai sintaks dan fitur inti dari bahasa pemrograman Dart yang menjadi dasar esensial sebelum membangun antarmuka aplikasi dengan Flutter.
 
 ---
 
@@ -39,4 +39,4 @@ Pertemuan pertama memberikan pemahaman mendalam mengenai sintaks dan fitur inti 
   - Menampilkan daftar data menggunakan `ListView`, `Card`, dan `ListTile`.
 
 **Kesimpulan Praktikum:**  
-Pertemuan kedua memberikan pemahaman mendalam tentang penggunaan widget dasar di Flutter, pengelolaan form input, navigasi antar halaman, serta penyusunan daftar item menggunakan ListView.
+Pertemuan kedua memberikan pemahaman tentang penggunaan widget dasar di Flutter, pengelolaan form input, navigasi antar halaman, serta penyusunan daftar item menggunakan ListView.
