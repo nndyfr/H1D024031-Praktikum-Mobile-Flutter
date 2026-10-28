@@ -1,8 +1,8 @@
 # Laporan Praktikum Pemrograman Mobile - Flutter
 
-**Nama**        : Nindya Alif Romland  
-**NIM**         : H1D024031  
-**Shift**       : Awal D / Akhir E
+**Nama**        : Nindya Alif Romland  <br>
+**NIM**         : H1D024031  <br>
+**Shift**       : Awal D / Akhir E  <br>
 **Praktikum**   : Pemrograman Mobile
 
 ---
@@ -25,3 +25,12 @@
 **Kesimpulan Praktikum:**  
 Praktikum pertama memberikan pemahaman mendalam tentang penggunaan widget dasar di Flutter, pengelolaan form input, navigasi antar halaman, serta penyusunan daftar item menggunakan ListView.
 
+---
+
+## 📝 Tugas Pertemuan 2
+*(Akan diisi pada pertemuan selanjutnya)*
+
+---
+
+## 📝 Tugas Pertemuan 3
+*(Akan diisi pada pertemuan selanjutnya)*
