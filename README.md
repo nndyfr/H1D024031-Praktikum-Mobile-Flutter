@@ -8,7 +8,7 @@
 ---
 
 ## 📝 Tugas Pertemuan 1: Bahasa Pemrograman Dart
-**Tanggal**: 21
+**Tanggal**: 21 Oktober 2026
 
 **Deskripsi Teknis & Non-Teknis:**
 - **Non-Teknis:** Pengenalan dasar bahasa pemrograman Dart sebagai fondasi utama pengembangan aplikasi multi-platform menggunakan Flutter. Mempelajari konsep dasar pemrograman berorientasi objek (OOP), eksepsi, serta pemrograman asinkronus.
