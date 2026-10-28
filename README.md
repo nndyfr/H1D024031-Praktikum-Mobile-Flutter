@@ -24,13 +24,3 @@
 
 **Kesimpulan Praktikum:**  
 Praktikum pertama memberikan pemahaman mendalam tentang penggunaan widget dasar di Flutter, pengelolaan form input, navigasi antar halaman, serta penyusunan daftar item menggunakan ListView.
-
----
-
-## 📝 Tugas Pertemuan 2
-*(Akan diisi pada pertemuan selanjutnya)*
-
----
-
-## 📝 Tugas Pertemuan 3
-*(Akan diisi pada pertemuan selanjutnya)*
