@@ -40,3 +40,18 @@ Pertemuan pertama memberikan pemahaman mengenai sintaks dan fitur inti dari baha
 
 **Kesimpulan Praktikum:**  
 Pertemuan kedua memberikan pemahaman tentang penggunaan widget dasar di Flutter, pengelolaan form input, navigasi antar halaman, serta penyusunan daftar item menggunakan ListView.
+
+---
+
+## 📝 Tugas Pertemuan 3: Login Page & Shared Preferences
+**Tanggal**: [Tanggal Pertemuan 3]
+
+**Deskripsi Teknis & Non-Teknis:**
+- **Non-Teknis:** Memahami mekanisme autentikasi sederhana pada aplikasi mobile serta penyimpanan lokal (*local storage*) menggunakan `shared_preferences`.
+- **Teknis:** 
+  - Menambahkan dependencies `shared_preferences` pada `pubspec.yaml`.
+  - Membuat halaman `LoginPage` (`login_page.dart`) dengan `StatefulWidget`, `TextEditingController` untuk username & password, serta fungsi `_saveUsername()` untuk menyimpan data ke penyimpanan lokal secara asinkronus (`async`/`await`).
+  - Mengimplementasikan validasi login (username dan password `admin`) dengan menampilkan dialog *alert* (`showDialog`) serta navigasi ke `HomePage` jika berhasil atau kembali ke `LoginPage` jika salah.
+
+**Kesimpulan Praktikum:**  
+Pertemuan ketiga memberikan pemahaman tentang cara mengintegrasikan plugin pihak ketiga (`shared_preferences`) untuk penyimpanan data lokal serta membangun alur autentikasi dan dialog interaktif di Flutter.

@@ -1,4 +1,4 @@
-import 'package:belajarflutter/ui/produk_page.dart';
+import 'package:belajarflutter/login_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: "Aplikasi Flutter Pertama",
-      home: ProdukPage(),
+      home: LoginPage(),
     );
   }
 }
