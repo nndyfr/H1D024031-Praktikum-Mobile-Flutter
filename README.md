@@ -26,9 +26,9 @@ Pertemuan pertama memberikan pemahaman mengenai sintaks dan fitur inti dari baha
 ## 📝 Tugas Pertemuan 2: Widget & Design Flutter
 **Tanggal**: Rabu, 28 Oktober 2026
 
-![Tugas Pertemuan 2 - Bagian 1](docs/tugas-1a.jpeg)
-![Tugas Pertemuan 2 - Bagian 2](docs/tugas-1b.jpeg)
-![Tugas Pertemuan 2 - Bagian 3](docs/tugas-1c.jpeg)
+![Tugas Pertemuan 2 - Bagian 1](docs/tugas-2a.jpeg)
+![Tugas Pertemuan 2 - Bagian 2](docs/tugas-2b.jpeg)
+![Tugas Pertemuan 2 - Bagian 3](docs/tugas-2c.jpeg)
 
 **Deskripsi Teknis & Non-Teknis:**
 - **Non-Teknis:** Pengenalan dasar framework Flutter, pembuatan struktur folder proyek, serta pemahaman tata letak dasar antarmuka pengguna mobile.
@@ -44,7 +44,11 @@ Pertemuan kedua memberikan pemahaman tentang penggunaan widget dasar di Flutter,
 ---
 
 ## 📝 Tugas Pertemuan 3: Login Page & Shared Preferences
-**Tanggal**: [Tanggal Pertemuan 3]
+**Tanggal**: Rabu, 04 November 2026
+
+![Tugas Pertemuan 3 - Bagian 1](docs/tugas-3a.jpeg)
+![Tugas Pertemuan 3 - Bagian 2](docs/tugas-3b.jpeg)
+![Tugas Pertemuan 3 - Bagian 3](docs/tugas-3c.jpeg)
 
 **Deskripsi Teknis & Non-Teknis:**
 - **Non-Teknis:** Memahami mekanisme autentikasi sederhana pada aplikasi mobile serta penyimpanan lokal (*local storage*) menggunakan `shared_preferences`.
