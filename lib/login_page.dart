@@ -80,6 +80,13 @@ class _LoginPageState extends State<LoginPage> {
             _showInput(_passwordController, 'Masukkan Password', true),
             const SizedBox(height: 20),
             ElevatedButton(
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.blue,
+                foregroundColor: Colors.white,
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(5),
+                ),
+              ),
               child: const Text('Login'),
               onPressed: () {
                 if (_usernameController.text == 'admin' &&
